@@ -1,5 +1,5 @@
 chromadb
-langchain==0.0.234
+langchain
 flask
 openai
 python-dotenv

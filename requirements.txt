@@ -6,4 +6,4 @@ python-dotenv
 pandas
 sentence_transformers
 streamlit
-pyarrow
+pydantic==1.10.9

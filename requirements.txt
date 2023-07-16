@@ -7,3 +7,4 @@ pandas
 sentence_transformers
 streamlit
 pydantic==1.10.9
+protobuf
